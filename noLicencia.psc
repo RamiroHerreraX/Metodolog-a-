@@ -1,6 +1,6 @@
 Algoritmo noLicencia
 	//Autor: Ramiro Herrera
-	// Descripción:
+	// Descripción: Este programa simula los datos que se ingresan al momento de la creación de una licencia de conducir
 	// Fecha: 21/10/2022
 	Limpiar Pantalla;
 	Definir nlicencia Como Caracter;
