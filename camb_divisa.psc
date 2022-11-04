@@ -1,3 +1,7 @@
+//Algoritmo que calcula el cambio de divisa 
+// de dinero en pesos mexicanos a dolares y euros en partes iguales
+//Autor: Ramiro Herrera
+// Fecha: 25/10/2022
 Proceso camb_divisa
 	//Paso 1: Ingresar la cantidad que tiene el usuario en pesos
 	Definir cantidad Como Real;

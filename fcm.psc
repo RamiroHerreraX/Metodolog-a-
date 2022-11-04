@@ -9,14 +9,14 @@ Proceso fcm
 	
 	// Paso 1: Solicitar la edad
 	Definir age Como Entero;
-	Escribir "Ingresa tu edad ";
+	Escribir Sin Saltar "Ingresa tu edad ";
 	Leer age;
 	//Paso 2: Calcular la frecuencia cardiaca máxima (fmc)
 	//fmc = 220 - edad solicitada
 	Definir frecuencia Como Entero;
 	frecuencia <- 220 - age;
 	//Paso 3: Dar a conocer la fmc
-	Escribir "Tu frecuencia cardiaca máxima es: ";
+	Escribir Sin Saltar "Tu frecuencia cardiaca máxima es: ";
 	Escribir frecuencia;
 	//Paso 4:
 	
